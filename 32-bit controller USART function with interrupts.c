@@ -195,4 +195,4 @@ int main(void){
 			if(Stop_flag == 1) SetToZero();
 		Alarm_Indication();
 		}
-}
+} 
